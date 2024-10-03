@@ -3,7 +3,7 @@ import React from "react";
 import { FaLongArrowAltUp } from "react-icons/fa";
 import KG from '../assets/KG.png';
 import resume from '../assets/KartikeyFullstack.pdf';
-import '../Css/LandingPage.css'
+
 
 
 const LandingPage = () => {
